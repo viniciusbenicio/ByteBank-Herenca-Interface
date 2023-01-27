@@ -1,0 +1,15 @@
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\bin\Debug\net6.0\ByteBank.ADM.exe
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\bin\Debug\net6.0\ByteBank.ADM.deps.json
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\bin\Debug\net6.0\ByteBank.ADM.runtimeconfig.json
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\bin\Debug\net6.0\ByteBank.ADM.dll
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\bin\Debug\net6.0\ByteBank.ADM.pdb
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.csproj.AssemblyReference.cache
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.AssemblyInfoInputs.cache
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.AssemblyInfo.cs
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.csproj.CoreCompileInputs.cache
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.dll
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\refint\ByteBank.ADM.dll
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.pdb
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ByteBank.ADM.genruntimeconfig.cache
+D:\Cursos\Alura\C# usando herança e implementando interfaces C# usando herança e implementando interfaces\ByteBank\obj\Debug\net6.0\ref\ByteBank.ADM.dll
